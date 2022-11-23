@@ -1,0 +1,56 @@
+{
+  "bebidas": [
+    {
+      "id": 1,
+      "nome": "Refrigerante sabor Guaraná, 2 litros",
+      "preco": 10
+    },
+    {
+      "id": 2,
+      "nome": "Suco natural de Laranja,copo 500 ml",
+      "preco": 7.5
+    },
+    {
+      "id": 3,
+      "nome": "Água com gás sabor Limão,1 litro ",
+      "preco": 9.99
+    }
+  ],
+  "pratos": [
+    {
+      "id": 1,
+      "nome": "Almôndega caseira",
+      "descricao": "Self-Service"
+    },
+    {
+      "id": 2,
+      "nome": "Bolinho de brócolis assado",
+      "descricao": "Self-Service"
+    },
+    {
+      "id": 3,
+      "nome": "Filé de atum assado no forno",
+      "descricao": "Self-Service"
+    }
+  ],
+  "doces": [
+    {
+      "id": 1,
+      "nome": "Brigadeiro tradicional no confeito belga",
+      "descricao": "Contém 2 unidades",
+      "preco": 9
+    },
+    {
+      "id": 2,
+      "nome": "Torta de sorvete Suíça",
+      "descricao": "Sorverte de chocolate,Sorvete de doce de leite, recheada com doce de leite e coberta por ganache de chocolate, 420g",
+      "preco": 50
+    },
+    {
+      "id": 2,
+      "nome": "Bolo Ninho com Nutella",
+      "descricao": "Massa branca com brigadeiro branco cremoso,Nutella e Ninho, fatia",
+      "preco": 10
+    }
+  ]
+}
