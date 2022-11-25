@@ -139,5 +139,6 @@ server.listen(3000, () => {
    
    * no projeto foi ultizidado o Postman para o teste da Api
    
-   
+    *acesso pelo render.....
+    https://fake-api-mqf4.onrender.com
    [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/24581722-39fd6a49-72f5-4b3b-87e5-3a1e06424c7f?action=collection%2Ffork&collection-url=entityId%3D24581722-39fd6a49-72f5-4b3b-87e5-3a1e06424c7f%26entityType%3Dcollection%26workspaceId%3Dd3a8a28d-f7dd-4f5d-8393-7f0b8a995168)
